@@ -111,12 +111,12 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/cabal.jpg"
+    date: "July 2015"
+    description: "Got first yoyo"
+  - image: "/img/timeline/fnkcnd_avatar.png"
+    date: "September 2012"
+    description: "Started Drawing"
 
 # First image of the Timeline
 
