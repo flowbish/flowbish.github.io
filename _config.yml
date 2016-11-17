@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Porter Smith"
 title: "Porter Smith"
-description: "Blog and website of Porter Smith, blogging mainly for tech. Opinions expressed are mine."
+description: "Blog and website of Porter Smith, blogging tech, art, and yoyos."
 keywords: "smith, porter, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/water.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/cabal.jpg"
 
 ##############################
 # Color the browser elements #
